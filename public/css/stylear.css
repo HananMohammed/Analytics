@@ -1,0 +1,45 @@
+
+ul.ml-auto {margin-right: auto; margin-left: 0 !important;}
+.dot1{
+    margin-right: 55%;
+    animation: animate1 5s infinite ;
+
+}
+.dot2{
+    margin-right: 55.5%;
+    animation: animate2 5s infinite ;
+}
+@keyframes animate1 {
+
+    from {margin-right: 55%;}
+    to {margin-right: 43%;}
+}
+@keyframes animate2 {
+
+    from {margin-right: 55.5%;}
+    to {margin-right: 43.5%;}
+}
+.form-submit{ margin:0; margin-right: -50%!important;}
+.contact-section h1{margin-right: -16%!important;}
+.admin-label-ar{
+    margin-left: 90%;
+}
+.input-ar{
+    margin-left: 53%;
+}
+.login{
+    margin-left: 70%!important;
+    padding-top: 20px;
+}
+h4{
+    margin-left: 45%!important;
+}
+.paragraph{
+    margin-left: -4%!important;
+}
+.card-text-label{
+    float: right;
+}
+.label-ar{
+    margin-left: 62%!important;
+}
